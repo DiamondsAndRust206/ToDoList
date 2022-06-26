@@ -94,3 +94,7 @@ C:\Users\ryani\desktop\ToDoList.Solution\ToDoList.Tests\obj\Debug\net5.0\ToDoLis
 C:\Users\ryani\desktop\ToDoList.Solution\ToDoList.Tests\obj\Debug\net5.0\ref\ToDoList.Tests.dll
 C:\Users\ryani\desktop\ToDoList.Solution\ToDoList.Tests\obj\Debug\net5.0\ToDoList.Tests.pdb
 C:\Users\ryani\desktop\ToDoList.Solution\ToDoList.Tests\obj\Debug\net5.0\ToDoList.Tests.genruntimeconfig.cache
+C:\Users\ryani\desktop\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.deps.json
+C:\Users\ryani\desktop\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.runtimeconfig.json
+C:\Users\ryani\desktop\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.runtimeconfig.dev.json
+C:\Users\ryani\desktop\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.exe
