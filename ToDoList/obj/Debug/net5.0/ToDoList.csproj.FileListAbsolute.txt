@@ -30,4 +30,5 @@ C:\Users\ryani\desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.Razo
 C:\Users\ryani\desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.RazorTargetAssemblyInfo.cs
 C:\Users\ryani\desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.Views.pdb
 C:\Users\ryani\desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.csproj.CopyComplete
-C:\Users\ryani\desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Home\CreateForm.cshtml.g.cs
+C:\Users\ryani\desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Items\CreateForm.cshtml.g.cs
+C:\Users\ryani\desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Items\Index.cshtml.g.cs
