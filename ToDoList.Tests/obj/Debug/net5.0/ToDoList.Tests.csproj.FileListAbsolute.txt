@@ -100,3 +100,4 @@ C:\Users\ryani\desktop\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoLis
 C:\Users\ryani\desktop\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.exe
 C:\Users\ryani\desktop\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.Views.dll
 C:\Users\ryani\desktop\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.Views.pdb
+C:\Users\ryani\desktop\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\MySqlConnector.dll

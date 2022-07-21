@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="~/css/styles.css">
   </head>
   <body>
-    <h1>Your list has been cleared!</h1>
-    <p><a href="/items">Back to list.</a></p>
+    @RenderBody()
+    @await Html.PartialAsync("Footer")
   </body>
-</html>
+</html
